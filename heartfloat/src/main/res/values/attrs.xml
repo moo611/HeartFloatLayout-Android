@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="heartfloat">
+        <attr name="dWidth" format="dimension"/>
+        <attr name="dHeight" format="dimension"/>
+        <attr name="alpha_duration" format="integer"/>
+        <attr name="float_duration" format="integer" />
+        <attr name="scaleable" format="boolean" />
+    </declare-styleable>
+
+
+</resources>
