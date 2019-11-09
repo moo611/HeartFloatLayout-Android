@@ -1,6 +1,7 @@
 # HeartFloatLayout
 2行代码实现点赞飘心动画
 
+![效果图](https://github.com/moo611/HeartFloatLayout-Android/blob/master/ha.jpg "效果图")
 
 ## Sample示例
 #### step1:添加依赖
