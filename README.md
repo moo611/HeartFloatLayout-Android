@@ -18,7 +18,7 @@ dependencies {
 	}
 ```
 
-####step2:在layout中添加HeartFloatLayout
+#### step2:在layout中添加HeartFloatLayout
 ```xml
 <atech.com.heartfloat.HeartFloatLayout
         android:layout_gravity="center_horizontal"
