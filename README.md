@@ -50,7 +50,7 @@ btn.setOnClickListener(new View.OnClickListener() {
  heartFloatLayout.setResources(new int[]{R.drawable.a1,R.drawable.a2,R.drawable.a3});
 
 ```
-####设置图片的宽高(单位:dp)
+#### 设置图片的宽高(单位:dp)
 
 ```java
 heartFloatLayout.setSize(20,20);
